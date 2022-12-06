@@ -1,0 +1,4 @@
+C:\Users\aling\source\repos\UnitConverter\UnitConverter\x64\Release\UnitConverter.vcxproj.AssemblyReference.cache
+C:\Users\aling\source\repos\UnitConverter\UnitConverter\x64\Release\UnitConverter.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\aling\source\repos\UnitConverter\UnitConverter\x64\Release\UnitConverter.MyForm.resources
+C:\Users\aling\source\repos\UnitConverter\UnitConverter\x64\Release\UnitConverter.vcxproj.GenerateResource.cache
